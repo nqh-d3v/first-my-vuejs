@@ -1,0 +1,14 @@
+{
+  "CardImg": {
+    "description": "Auto imported from components/Card-img.vue"
+  },
+  "LazyCardImg": {
+    "description": "Auto imported from components/Card-img.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}
